@@ -1,0 +1,97 @@
+.btns{  
+	width: 90px; 
+	height: 90px;
+	margin-left: 5%;
+	margin-top: 5%;
+	font-size: 30px;
+	border-style: none;
+	background-color: #fff; 
+	border-radius: 15px;
+}
+
+.atm_page{
+	width: 60%;
+	margin-left:auto; 
+  	margin-right:auto;
+}
+
+textarea { 
+	text-align: center;
+}
+input { 
+	text-align: center;
+} 
+
+body {
+	background-color: #ecf0f1;
+	font-size: 30px;
+}
+ 
+ *{
+ 		font-family: 'Montserrat', sans-serif;
+ }
+
+.bigbtns{
+	width: 180px;
+	height: 90px;
+	margin-left: 5%;
+	margin-top: 5%;
+	font-size: 25px;
+	border-style: none;
+	border-radius: 15px;
+}
+
+#keypad {
+	width: 600px;
+	margin-left:auto; 
+  	margin-right:auto;
+	
+}
+
+#calcfield {
+	height: 60px;
+	width: 300px;
+	border: none;
+	font-size: 40px;
+	background-color: #ecf0f1;
+	margin-left:auto; 
+  	margin-right:auto;
+}
+
+.row {
+	text-align: center;
+}
+
+.btns:last-child {
+    margin-right: 5%;
+} 
+
+.bigbtns:last-child {
+    margin-right: 5%;
+} 
+#clear {
+	background-color: #e74c3c;
+}
+
+#done {
+	background-color: #2ecc71; 
+}
+
+#ok-dialog {
+    display: none;
+    font-size: 15px;
+	opacity: 0.6;
+
+}
+
+.ui-tooltip{
+	background-color:rgba(0,0,0,0.5);
+	opacity: 0.6;
+}
+.ui-tooltip-content{
+	font-size: 15px;
+	background-color:rgba(0,0,0,0.5);
+		   opacity: 0.6;
+
+
+}
